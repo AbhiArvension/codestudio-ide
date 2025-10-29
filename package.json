@@ -1,6 +1,6 @@
 {
   "name": "@abhiarvension/codestudio-ide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Browser-based VS Code-like IDE with Monaco Editor, React, and Material-UI. Features virtual file system, dark/light themes, and project export.",
   "type": "module",
   "main": "./dist/index.html",
